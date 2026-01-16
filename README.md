@@ -46,3 +46,8 @@ Key Systems & Features
 - - - Faster movement speeds
 - - - Periodic boss spawns
 - - Randomized backgrounds per level for visual variety
+
+**Collaboration**
+This project was developed collaboratively by Michael Pettric and Michael Brandmeyer.
+
+The project was built through iterative collaboration, with shared responsibility over design decisions, debugging, and gameplay balance. This teamwork emphasized clear communication, modular code structure, and rapid experimentation.
