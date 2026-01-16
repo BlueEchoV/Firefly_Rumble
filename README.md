@@ -1,5 +1,9 @@
 **Welcome to Firefly Rumble!!**
 
+Created by Michael Pettric and Michael Brandmeyer
+
+Video Demo: https://youtu.be/XXeJ95Zy8pM
+
 **Game Description**
 
 Firefly Rumble is a fast-paced, browser-based 2D action game built with JavaScript and HTML5 Canvas. Players control a character tasked with collecting elusive fireflies while avoiding increasingly aggressive enemies. As levels progress, the screen fills with dynamic movement, projectile combat, and emergent AI behavior, creating a chaotic and replayable experience.
@@ -48,7 +52,5 @@ Key Systems & Features
 - - Randomized backgrounds per level for visual variety
 
 **Collaboration**
-
-This project was developed collaboratively by Michael Pettric and Michael Brandmeyer.
 
 The project was built through iterative collaboration, with shared responsibility over design decisions, debugging, and gameplay balance. This teamwork emphasized clear communication, modular code structure, and rapid experimentation.
