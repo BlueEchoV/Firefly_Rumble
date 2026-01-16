@@ -4,7 +4,7 @@
 
 Firefly Rumble is a fast-paced, browser-based 2D action game built with JavaScript and HTML5 Canvas. Players control a character tasked with collecting elusive fireflies while avoiding increasingly aggressive enemies. As levels progress, the screen fills with dynamic movement, projectile combat, and emergent AI behavior, creating a chaotic and replayable experience.
 
-The core challenge comes from balancing movement, positioning, and timing while navigating swarming enemies and escalating difficulty. Each level introduces more fireflies, faster enemies, and new threats—including periodic boss encounters—pushing the player to adapt and survive.
+The core challenge comes from balancing movement, positioning, and timing while navigating swarming enemies and escalating difficulty. Each level introduces more fireflies, faster enemies, and new threats. This includes periodic boss encounters, which push the player to adapt and survive.
 
 **Technical Overview**
 
